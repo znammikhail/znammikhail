@@ -20,9 +20,9 @@ Python backend developer
 
 I've been learning to code for 1 year, after switching careers. I studied independently for six months and then started taking Hexlet cursers.
 
-* 🌍  I'm based in Saint-Petersburg
+* 🌍  I'm based in Tbilisi
 * ✉️  You can contact me at [znamenskymihail@gmail.com ](mailto:znamenskymihail@gmail.com) or telegram: @miznam
-* 🧠  I'm learning Django, SQL 
+* 🧠  I'm learning Django, Flask, FastAPI 
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a bachelor in nuclear physics
 
